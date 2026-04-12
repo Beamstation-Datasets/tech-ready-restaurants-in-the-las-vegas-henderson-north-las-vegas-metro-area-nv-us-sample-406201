@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6174559f-cf63-4e7e-b5cd-5e4ea60881f1",
+  "id_short": 406201,
+  "published_at": "2026-04-12T07:30:19Z",
+  "repo_name": "tech-ready-restaurants-in-the-las-vegas-henderson-north-las-vegas-metro-area-nv-us-sample-406201",
+  "sample_asset_name": "beamstation_406201_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/406201/beamstation_406201_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "8aa2a6e058941538e798b42b3883d359a3734d55447012d47bf672e64f7762a8",
+  "sample_size_bytes": 19955,
+  "total_records": 16
+}
