@@ -9,9 +9,9 @@
 | Dataset ID | `406201` |
 | Location | Las Vegas-Henderson-North Las Vegas, NV |
 | Category | Restaurants |
-| Full dataset size | 9 records |
-| Free sample size | 1 records (11.11%) |
-| Last export | 2026-04-15T10:47:13.104898+00:00 |
+| Full dataset size | 7 records |
+| Free sample size | 1 records (14.29%) |
+| Last export | 2026-04-22T18:49:29.148161+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-las-vegas-henderson-north-las-vegas-metro-area-nv-us-sample-406201/releases/download/sample-latest/beamstation_406201_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
