@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Las Vegas-Henderson-North Las Vegas Metro Area, NV, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `406201` |
 | Location | Las Vegas-Henderson-North Las Vegas, NV |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-22T18:49:29.148161+00:00 |
+| Full dataset size | 106 records |
+| Free sample size | 10 records (9.43%) |
+| Last export | 2026-04-29T18:04:25.403214+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-las-vegas-henderson-north-las-vegas-metro-area-nv-us-sample-406201/releases/download/sample-latest/beamstation_406201_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
